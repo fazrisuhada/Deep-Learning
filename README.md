@@ -74,6 +74,6 @@ Jika menemukan bug atau ingin menambahkan materi, silakan buat **Pull Request** 
 
 ## 📬 Kontak
 👤 **Fazri Suhada**  
-🔗 [GitHub](https://github.com/fazrisuhada) | [LinkedIn](https://linkedin.com)  
+🔗 [GitHub](https://github.com/fazrisuhada) | [LinkedIn](https://www.linkedin.com/in/fazri-suhada-957176199/)  
 
 ---
