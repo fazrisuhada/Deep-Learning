@@ -17,13 +17,9 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 ### 🐍 Python Fundamental for Data Science
 - Dasar-dasar Python (tipe data, variable, list, dictionary, if statement, for loop, function, built-in function, module).
 
----
-
 ### 🐼 Pandas
 - Manipulasi Data Menggunakan Pandas
 - Project Web Scraping Menggunakan Pandas
-
----
 
 ### 📊 Machine Learning Dasar
 - Supervised & Unsupervised Learning.  
@@ -31,8 +27,6 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 - Evaluasi model: Accuracy, Precision, Recall, F1-Score.  
 
 📂 [Notebook ML Dasar](notebooks/machine_learning_basic.ipynb)
-
----
 
 ### 🤖 Deep Learning
 - Neural Network: perceptron, feedforward, backpropagation.  
@@ -43,15 +37,11 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 
 📂 [Notebook Deep Learning](notebooks/deep_learning.ipynb)
 
----
-
 ### 🚀 Pipeline & Deployment
 - Data preprocessing & augmentasi.  
 - Training, validasi, dan evaluasi model.  
 - Eksperimen model di **Google Colab**.  
 - Version control dengan GitHub.  
-
----
 
 ### 📝 Catatan & Dokumentasi
 Setiap folder/module memiliki notebook berisi:
