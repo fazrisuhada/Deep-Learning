@@ -13,27 +13,21 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 ---
 
 ## 📖 Daftar Isi
-1. [Python Fundamental for Data Science](#-python-fundamental-for-data-science)
-2. [Pandas](#-pandas)
-3. [Machine Learning Dasar](#-machine-learning-dasar)
-4. [Deep Learning](#-deep-learning)
-5. [Pipeline & Deployment](#-pipeline--deployment)
-6. [Catatan & Dokumentasi](#-catatan--dokumentasi)
 
 ---
 
-## 🐍 Python Fundamental for Data Science
+### 🐍 Python Fundamental for Data Science
 - Dasar-dasar Python (tipe data, variable, list, dictionary, if statement, for loop, function, built-in function, module).
 
 ---
 
-## 🐼 Pandas
+### 🐼 Pandas
 - Manipulasi Data Menggunakan Pandas
 - Project Web Scraping Menggunakan Pandas
 
 ---
 
-## 📊 Machine Learning Dasar
+### 📊 Machine Learning Dasar
 - Supervised & Unsupervised Learning.  
 - Algoritme: Regresi, Decision Tree, KNN, Clustering.  
 - Evaluasi model: Accuracy, Precision, Recall, F1-Score.  
@@ -42,7 +36,7 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 
 ---
 
-## 🤖 Deep Learning
+### 🤖 Deep Learning
 - Neural Network: perceptron, feedforward, backpropagation.  
 - Framework: **TensorFlow** & **PyTorch**.  
 - CNN untuk Computer Vision.  
@@ -53,7 +47,7 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 
 ---
 
-## 🚀 Pipeline & Deployment
+### 🚀 Pipeline & Deployment
 - Data preprocessing & augmentasi.  
 - Training, validasi, dan evaluasi model.  
 - Eksperimen model di **Google Colab**.  
@@ -61,7 +55,7 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 
 ---
 
-## 📝 Catatan & Dokumentasi
+### 📝 Catatan & Dokumentasi
 Setiap folder/module memiliki notebook berisi:
 - Materi singkat
 - Contoh implementasi
@@ -69,13 +63,13 @@ Setiap folder/module memiliki notebook berisi:
 
 ---
 
-## ⭐ Kontribusi
+### ⭐ Kontribusi
 Repo ini bersifat open untuk belajar bersama.  
 Jika menemukan bug atau ingin menambahkan materi, silakan buat **Pull Request** atau **Issue**.  
 
 ---
 
-## 📬 Kontak
+### 📬 Kontak
 👤 **Fazri Suhada**  
 🔗 [GitHub](https://github.com/fazrisuhada) | [LinkedIn](https://www.linkedin.com/in/fazri-suhada-957176199/)  
 
