@@ -29,6 +29,7 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 
 ## 🐼 Pandas
 - Manipulasi Data Menggunakan Pandas
+- Project Web Scraping Menggunakan Pandas
 
 ---
 
