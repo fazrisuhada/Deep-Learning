@@ -14,8 +14,6 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 
 ## 📖 Daftar Isi
 
----
-
 ### 🐍 Python Fundamental for Data Science
 - Dasar-dasar Python (tipe data, variable, list, dictionary, if statement, for loop, function, built-in function, module).
 
