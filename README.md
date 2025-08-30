@@ -14,19 +14,21 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 
 ## 📖 Daftar Isi
 1. [Python Fundamental for Data Science](#-python-fundamental-for-data-science)
-2. [Machine Learning Dasar](#-machine-learning-dasar)
-3. [Deep Learning](#-deep-learning)
-4. [Pipeline & Deployment](#-pipeline--deployment)
-5. [Catatan & Dokumentasi](#-catatan--dokumentasi)
+2. [Pandas](#-pandas)
+3. [Machine Learning Dasar](#-machine-learning-dasar)
+4. [Deep Learning](#-deep-learning)
+5. [Pipeline & Deployment](#-pipeline--deployment)
+6. [Catatan & Dokumentasi](#-catatan--dokumentasi)
 
 ---
 
 ## 🐍 Python Fundamental for Data Science
-- Dasar-dasar Python (variabel, tipe data, fungsi, OOP sederhana).  
-- Manipulasi data dengan **NumPy** dan **Pandas**.  
-- Visualisasi data menggunakan **Matplotlib** & **Seaborn**.  
+- Dasar-dasar Python (tipe data, variable, list, dictionary, if statement, for loop, function, built-in function, module).
 
-📂 [Notebook Python Fundamentals](notebooks/python_fundamentals.ipynb)
+---
+
+## 🐼 Pandas
+- Manipulasi Data Menggunakan Pandas
 
 ---
 
