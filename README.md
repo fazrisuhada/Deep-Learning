@@ -26,16 +26,12 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari **Deep Learn
 - Algoritme: Regresi, Decision Tree, KNN, Clustering.  
 - Evaluasi model: Accuracy, Precision, Recall, F1-Score.  
 
-📂 [Notebook ML Dasar](notebooks/machine_learning_basic.ipynb)
-
 ### 🤖 Deep Learning
 - Neural Network: perceptron, feedforward, backpropagation.  
 - Framework: **TensorFlow** & **PyTorch**.  
 - CNN untuk Computer Vision.  
 - RNN & LSTM untuk data teks/sekuensial.  
 - Transfer Learning (MNIST, CIFAR-10, IMDB).  
-
-📂 [Notebook Deep Learning](notebooks/deep_learning.ipynb)
 
 ### 🚀 Pipeline & Deployment
 - Data preprocessing & augmentasi.  
